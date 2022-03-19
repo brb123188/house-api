@@ -1,0 +1,43 @@
+h1,
+h4 {
+  color: red;
+}
+body {
+  background-image: url("../src/images/beautiful-home.jpg");
+  background-color: olivedrab;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+}
+.house-form {
+  display: flex;
+  align-items: left;
+  justify-content: left;
+}
+
+label {
+  color: red;
+  font-weight: bold;
+  margin-top: 1.5%;
+}
+
+.table-responsive {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border: red;
+  background-color: #ffffff;
+  padding: 1%;
+}
+
+.title {
+  color: red;
+  text-align: center;
+}
+
+td,
+th {
+  text-align: center;
+  color: red;
+}
